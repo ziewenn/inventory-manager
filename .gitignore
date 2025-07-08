@@ -1,0 +1,17 @@
+# Environment variables
+.env
+
+# Go binaries and temp files
+/tmp
+*.exe
+*.exe~
+
+# Node.js dependencies
+/frontend/node_modules
+/frontend/build
+npm-debug.log
+.npm
+
+# macOS files
+.DS_Store
+
